@@ -1,3 +1,1 @@
-## Hello, collaborant!
-
-Test collaboration is cool!
+Hello, collaborant!
